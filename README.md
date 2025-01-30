@@ -11,4 +11,8 @@ scripts (bash, powershell, cmd) and snippets collection for developmemt or ease 
 
 ## Windows
 
-- ### [Remove Universal-apps (mssore)](./powershell/Remove-MSStore-Apps.md)
+ - ### Powershell
+
+    - ### [Remove universal-apps (mssore)](./powershell/Remove-MSStore-Apps.md)
+    - ### [Install software with winget](./powershell/install-my-tools.md)
+    - ### [Elevated powershell](./powershell/self-elevate.md)
