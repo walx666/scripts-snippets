@@ -16,3 +16,9 @@ scripts (bash, powershell, cmd) and snippets collection for developmemt or ease 
     - ### [Remove universal-apps (mssore)](./powershell/Remove-MSStore-Apps.md)
     - ### [Install software with winget](./powershell/install-my-tools.md)
     - ### [Elevated powershell](./powershell/self-elevate.md)
+
+---
+
+## MikroTik Router OS
+
+ - ### [Enable www-ssl for webfig](./miktotik/www-ssl.md)
