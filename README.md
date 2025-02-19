@@ -1,5 +1,5 @@
 # Scripts-Snippets ...
-scripts (bash, powershell, cmd) and snippets collection for developmemt or ease to build your environment
+scripts (bash, powershell, cmd, routeros) and snippets collection for developmemt or ease to build your environment
 
 ---
 
