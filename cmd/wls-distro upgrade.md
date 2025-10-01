@@ -32,4 +32,5 @@ for %%A in ("%DISTROS:;=";"%") do (
 	)
 	echo.
 )
+pause
 ```
