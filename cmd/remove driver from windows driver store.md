@@ -7,7 +7,7 @@ do the following:
 Run Command Prompt as an administrator.
 
 Enter the command:
-```cmd
+```bat
 pnputil.exe -e
 ```
 
@@ -19,8 +19,18 @@ Search for the right INF file. Check for:
 - Driver date and version.
 
 Delete the driver files using the following command:
-```cmd
+```bat
 pnputil.exe -f -d oem<number>.inf
 ```
 
 Your driver and all the driver files are now removed from the system.
+
+
+
+
+Export driver package
+```bat
+pnputil.exe /export-driver oem<number>.inf .
+```
+
+see https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-examples

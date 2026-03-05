@@ -31,4 +31,7 @@ Get-AppxPackage *Microsoft.XboxGamingOverlay* -AllUsers | Remove-AppxPackage
 Get-AppxPackage *Microsoft.XboxIdentityProvider* -AllUsers | Remove-AppxPackage
 Get-AppxPackage *Microsoft.XboxSpeechToTextOverlay* -AllUsers | Remove-AppxPackage
 Get-AppxPackage *Microsoft.YourPhone* -AllUsers | Remove-AppxPackage
+Get-AppxPackage *Microsoft.Copilot* -AllUsers | Remove-AppxPackage
+Get-AppxPackage *Microsoft.MicrosoftOfficeHub* -AllUsers | Remove-AppxPackage
+Get-AppxPackage *MSTeams* -AllUsers | Remove-AppxPackage
 ```
